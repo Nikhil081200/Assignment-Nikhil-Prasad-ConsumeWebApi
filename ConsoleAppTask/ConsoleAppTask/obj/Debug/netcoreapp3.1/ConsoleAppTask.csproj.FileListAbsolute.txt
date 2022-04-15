@@ -1,0 +1,16 @@
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\bin\Debug\netcoreapp3.1\ConsoleAppTask.exe
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\bin\Debug\netcoreapp3.1\ConsoleAppTask.deps.json
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\bin\Debug\netcoreapp3.1\ConsoleAppTask.runtimeconfig.json
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\bin\Debug\netcoreapp3.1\ConsoleAppTask.runtimeconfig.dev.json
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\bin\Debug\netcoreapp3.1\ConsoleAppTask.dll
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\bin\Debug\netcoreapp3.1\ConsoleAppTask.pdb
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.csproj.AssemblyReference.cache
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.AssemblyInfoInputs.cache
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.AssemblyInfo.cs
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.csproj.CoreCompileInputs.cache
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.csproj.CopyComplete
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.dll
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.pdb
+C:\Users\Nilesh H. Prasad\source\repos\ConsoleAppTask\ConsoleAppTask\obj\Debug\netcoreapp3.1\ConsoleAppTask.genruntimeconfig.cache
